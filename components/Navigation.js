@@ -26,6 +26,11 @@ export default function Navigation() {
               </Link>
             </li>
             <li className="nav-item">
+              <Link href="/ws">
+                <a className="nav-link">Web Sockets</a>
+              </Link>
+            </li>
+            <li className="nav-item">
               <Link href="/about">
                 <a className="nav-link">About</a>
               </Link>
